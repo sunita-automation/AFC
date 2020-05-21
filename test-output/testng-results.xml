@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52149" started-at="2019-11-20T05:50:26Z" finished-at="2019-11-20T05:51:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52149" started-at="2019-11-20T05:50:26Z" finished-at="2019-11-20T05:51:18Z">
+      <class name="com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test">
+        <test-method status="PASS" signature="revCreateDirectory()[pri:0, instance:com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test@4f970963]" name="revCreateDirectory" is-config="true" duration-ms="29" started-at="2019-11-20T11:20:26Z" finished-at="2019-11-20T11:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- revCreateDirectory -->
+        <test-method status="PASS" signature="getExtent()[pri:0, instance:com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test@4f970963]" name="getExtent" is-config="true" duration-ms="52" started-at="2019-11-20T11:20:26Z" finished-at="2019-11-20T11:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExtent -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test@4f970963]" name="setUp" is-config="true" duration-ms="13990" started-at="2019-11-20T11:20:26Z" finished-at="2019-11-20T11:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test@4f970963]" name="startReport" is-config="true" duration-ms="442" started-at="2019-11-20T11:20:40Z" finished-at="2019-11-20T11:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="createIuserGroupService()[pri:0, instance:com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test@4f970963]" name="createIuserGroupService" duration-ms="36224" started-at="2019-11-20T11:20:40Z" finished-at="2019-11-20T11:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createIuserGroupService -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test@4f970963]" name="getResult" is-config="true" duration-ms="3" started-at="2019-11-20T11:21:17Z" finished-at="2019-11-20T11:21:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createIuserGroupService status=SUCCESS method=ParameterMaintenanceCTA_005Test.createIuserGroupService()[pri:0, instance:com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test@4f970963] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="flushToReport()[pri:0, instance:com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test@4f970963]" name="flushToReport" is-config="true" duration-ms="511" started-at="2019-11-20T11:21:17Z" finished-at="2019-11-20T11:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushToReport -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test@4f970963]" name="tearDown" is-config="true" duration-ms="903" started-at="2019-11-20T11:21:17Z" finished-at="2019-11-20T11:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterMainMethod()[pri:0, instance:com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test@4f970963]" name="afterMainMethod" is-config="true" duration-ms="0" started-at="2019-11-20T11:21:18Z" finished-at="2019-11-20T11:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMainMethod -->
+      </class> <!-- com.ndfs.afc.accounts.ParameterMaintenanceCTA_005Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.ndfs.afc.accounts.LaborRelationshipMaintanceCreationCTA_044Test">
+        <methods>
+          <include name="getExtent"/>
+          <include name="afterMainMethod"/>
+          <include name="flushToReport"/>
+          <include name="createIuserGroupService"/>
+          <include name="getResult"/>
+          <include name="revCreateDirectory"/>
+          <include name="setUp"/>
+          <include name="startReport"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ndfs.afc.accounts.LaborRelationshipMaintanceCreationCTA_044Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
